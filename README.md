@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="screenshots/banner.png" alt="AI Financial Management System Banner" width="100%">
+</p>
+
 # 💰 AI Financial Management System
 
 <p align="center">
