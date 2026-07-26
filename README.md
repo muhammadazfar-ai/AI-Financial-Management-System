@@ -75,49 +75,28 @@ AI-Financial-Management-System
 ├── DefaultPieDataset.java
 ├── JFreeChart.java
 └── README.md
-```
-
----
-
 ## 📸 Application Screenshots
 
-### 🏠 Home Screen
-
-![Home](screenshots/home.png)
-
----
-
-### 🏦 Banking Module
-
-![Bank](screenshots/banking.png)
-
----
-
-### 🏥 Healthcare Finance
-
-![Healthcare](screenshots/healthcare.png)
-
----
-
-### 🏢 Enterprise Management
-
-![Enterprise](screenshots/enterprise.png)
-
----
-
-### 🤖 AI Expense Analyzer
-
-![AI Analyzer](screenshots/ai-analyzer.png)
-
----
-
-### 📊 Analytics Dashboard
-
+### 📊 Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
----
+### 🏦 Banking Module
+![Banking Module](screenshots/banking-module.png)
 
-## 🚀 How to Run
+### 🎓 University Module
+![University Module](screenshots/university-module.png)
+
+### 🏥 Medical Module
+![Medical Module](screenshots/medical-module.png)
+
+### 💰 Expense Management
+![Expense Management](screenshots/expense-management.png)
+
+### 🤖 AI Report
+![AI Report](screenshots/ai-report.png)
+
+### 📋 Audit Logs
+![Audit Logs](screenshots/audit-logs.png)## 🚀 How to Run
 
 1. Clone the repository
 git clone https://github.com/muhammadazfar-ai/AI-Financial-Management-System.git
