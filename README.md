@@ -76,6 +76,10 @@ AI-Financial-Management-System
 ├── JFreeChart.java
 └── README.md
 ## 📸 Application Screenshots
+## 📸 Application Screenshots
+
+### 🔐 Login Page
+![Login Page](screenshots/login-page.png)
 
 ### 📊 Dashboard
 ![Dashboard](screenshots/dashboard.png)
@@ -96,7 +100,8 @@ AI-Financial-Management-System
 ![AI Report](screenshots/ai-report.png)
 
 ### 📋 Audit Logs
-![Audit Logs](screenshots/audit-logs.png)## 🚀 How to Run
+![Audit Logs](screenshots/audit-logs.png)
+🚀 How to Run
 
 1. Clone the repository
 git clone https://github.com/muhammadazfar-ai/AI-Financial-Management-System.git
